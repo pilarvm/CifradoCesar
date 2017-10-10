@@ -5,8 +5,8 @@ El programa cifrara y descifrara un mensaje introducido por el usuario.
 # Diagrama de flujo
 
 ![GitHub Logo](/assets/cesar.png)
-Format: ![CifradoCesar]
-https://subefotos.com/ver/?f24fb569c64466b604f1e50ebf5f0b1do.png
+
+https://subefotos.com/ver/?1c734d53fea4d30902a1a50480c968a9o.png#codigos
 
 # Pseudocodigo
 
